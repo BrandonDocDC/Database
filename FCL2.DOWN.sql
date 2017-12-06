@@ -1,0 +1,34 @@
+drop table FCL2.INVOICE_LINE;
+drop table FCL2.JOB;
+drop table FCL2.PAYMENT;
+drop table FCL2.INVOICE;
+drop table FCL2.VEHICLE;
+drop table FCL2.REQUIRED_PART;
+drop table FCL2.VEHICLE_TYPE_SERVICE;
+drop table FCL2.VEHICLE_TYPE;
+
+
+
+drop table FCL2.AVAILABLE_PART;
+drop table FCL2.CUSTOMER;
+
+
+
+drop table FCL2.MECHANIC;
+drop table FCL2.PART;
+
+drop table FCL2.RATE;
+
+drop table FCL2.SERVICE;
+
+drop table FCL2.VEHICLE_MAKE;
+drop table FCL2.VEHICLE_MODEL;
+drop table FCL2.VEHICLE_TRIM;
+
+
+drop table FCL2.VENDOR;
+
+DROP VIEW MECHANIC_EFFICIENCY;
+DROP VIEW CUSTOMER_EXPENSE;
+
+DROP SCHEMA FCL2;
